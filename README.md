@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmaworthington
 - 👀 I’m interested in Python
-- I'm a physical oceanography PhD student
+- I'm a post-doctoral researcher in physical oceanography
 
 <!---
 emmaworthington/emmaworthington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
